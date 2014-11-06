@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<global comment="中国网通的各省市ip段">
+    <province name="
+ 安徽
+">
+      <ip id="0">
+        <beginip>112.122.0.0</beginip>
+        <endip>112.123.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>58.242.0.0</beginip>
+        <endip>58.243.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>112.132.0.0</beginip>
+        <endip>112.132.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 广东
+">
+      <ip id="0">
+        <beginip>58.248.0.0</beginip>
+        <endip>58.255.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 海南
+">
+      <ip id="0">
+        <beginip>221.11.192.0</beginip>
+        <endip>221.11.223.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 江苏
+">
+      <ip id="0">
+        <beginip>122.192.0.0</beginip>
+        <endip>122.195.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 山东
+">
+      <ip id="0">
+        <beginip>124.128.0.0</beginip>
+        <endip>124.135.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>60.208.0.0</beginip>
+        <endip>60.215.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>123.232.0.0</beginip>
+        <endip>123.235.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>221.214.0.0</beginip>
+        <endip>221.215.255.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>60.216.0.0</beginip>
+        <endip>60.217.255.255</endip>
+      </ip>
+      <ip id="5">
+        <beginip>202.110.192.0</beginip>
+        <endip>202.110.255.255</endip>
+      </ip>
+      <ip id="6">
+        <beginip>202.102.144.0</beginip>
+        <endip>202.102.159.255</endip>
+      </ip>
+      <ip id="7">
+        <beginip>202.102.136.0</beginip>
+        <endip>202.102.143.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 天津
+">
+      <ip id="0">
+        <beginip>218.68.0.0</beginip>
+        <endip>218.69.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>60.28.0.0</beginip>
+        <endip>60.29.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>60.30.0.0</beginip>
+        <endip>60.30.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>202.99.112.0</beginip>
+        <endip>202.99.127.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 北京
+">
+      <ip id="0">
+        <beginip>219.232.0.0</beginip>
+        <endip>219.235.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>211.144.0.0</beginip>
+        <endip>211.145.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>125.35.0.0</beginip>
+        <endip>125.35.127.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>202.130.224.0</beginip>
+        <endip>202.130.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 甘肃
+">
+      <ip id="0">
+        <beginip>115.85.192.0</beginip>
+        <endip>115.85.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 黑龙江
+">
+      <ip id="0">
+        <beginip>218.7.0.0</beginip>
+        <endip>218.7.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>60.11.0.0</beginip>
+        <endip>60.11.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>61.180.128.0</beginip>
+        <endip>61.180.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>61.158.0.0</beginip>
+        <endip>61.158.127.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>202.97.192.0</beginip>
+        <endip>202.97.223.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 辽宁
+">
+      <ip id="0">
+        <beginip>202.96.80.0</beginip>
+        <endip>202.96.95.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 上海
+">
+      <ip id="0">
+        <beginip>27.115.0.0</beginip>
+        <endip>27.115.127.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 新疆
+">
+      <ip id="0">
+        <beginip>124.88.0.0</beginip>
+        <endip>124.88.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 重庆
+">
+      <ip id="0">
+        <beginip>113.204.0.0</beginip>
+        <endip>113.207.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>221.13.96.0</beginip>
+        <endip>221.13.127.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 河南
+">
+      <ip id="0">
+        <beginip>218.28.0.0</beginip>
+        <endip>218.29.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>175.106.128.0</beginip>
+        <endip>175.106.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>124.240.128.0</beginip>
+        <endip>124.240.191.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 湖南
+">
+      <ip id="0">
+        <beginip>58.20.0.0</beginip>
+        <endip>58.20.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 内蒙古
+">
+      <ip id="0">
+        <beginip>110.16.0.0</beginip>
+        <endip>110.19.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>116.112.0.0</beginip>
+        <endip>116.115.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>116.116.0.0</beginip>
+        <endip>116.117.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>110.6.0.0</beginip>
+        <endip>110.7.255.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>58.18.0.0</beginip>
+        <endip>58.18.255.255</endip>
+      </ip>
+      <ip id="5">
+        <beginip>124.67.0.0</beginip>
+        <endip>124.67.255.255</endip>
+      </ip>
+      <ip id="6">
+        <beginip>116.95.0.0</beginip>
+        <endip>116.95.255.255</endip>
+      </ip>
+      <ip id="7">
+        <beginip>218.21.128.0</beginip>
+        <endip>218.21.255.255</endip>
+      </ip>
+      <ip id="8">
+        <beginip>61.134.96.0</beginip>
+        <endip>61.134.127.255</endip>
+      </ip>
+      <ip id="9">
+        <beginip>202.99.240.0</beginip>
+        <endip>202.99.255.255</endip>
+      </ip>
+      <ip id="10">
+        <beginip>221.199.192.0</beginip>
+        <endip>221.199.207.255</endip>
+      </ip>
+      <ip id="11">
+        <beginip>202.99.232.0</beginip>
+        <endip>202.99.239.255</endip>
+      </ip>
+      <ip id="12">
+        <beginip>202.99.224.0</beginip>
+        <endip>202.99.231.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 陕西
+">
+      <ip id="0">
+        <beginip>123.138.0.0</beginip>
+        <endip>123.139.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>221.11.0.0</beginip>
+        <endip>221.11.127.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 西藏
+">
+      <ip id="0">
+        <beginip>27.98.224.0</beginip>
+        <endip>27.98.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 福建
+">
+      <ip id="0">
+        <beginip>112.111.0.0</beginip>
+        <endip>112.111.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>218.104.128.0</beginip>
+        <endip>218.104.159.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 河北
+">
+      <ip id="0">
+        <beginip>121.28.0.0</beginip>
+        <endip>121.29.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>60.10.0.0</beginip>
+        <endip>60.10.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>221.195.0.0</beginip>
+        <endip>221.195.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 吉林
+">
+      <ip id="0">
+        <beginip>221.8.0.0</beginip>
+        <endip>221.9.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>222.163.128.0</beginip>
+        <endip>222.163.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 宁夏
+">
+      <ip id="0">
+        <beginip>221.199.64.0</beginip>
+        <endip>221.199.127.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>221.11.224.0</beginip>
+        <endip>221.11.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>221.199.0.0</beginip>
+        <endip>221.199.31.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>221.199.48.0</beginip>
+        <endip>221.199.63.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>221.199.32.0</beginip>
+        <endip>221.199.47.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 山西
+">
+      <ip id="0">
+        <beginip>118.72.0.0</beginip>
+        <endip>118.79.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>183.184.0.0</beginip>
+        <endip>183.191.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>118.80.0.0</beginip>
+        <endip>118.81.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>218.26.0.0</beginip>
+        <endip>218.26.255.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>121.30.0.0</beginip>
+        <endip>121.30.255.255</endip>
+      </ip>
+      <ip id="5">
+        <beginip>202.99.200.0</beginip>
+        <endip>202.99.207.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 云南
+">
+      <ip id="0">
+        <beginip>14.204.0.0</beginip>
+        <endip>14.205.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>221.213.0.0</beginip>
+        <endip>221.213.255.255</endip>
+      </ip>
+    </province>
+</global>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<global comment="中国移动的各省市ip段">
+    <province name="
+ 重庆
+">
+      <ip id="0">
+        <beginip>218.206.0.0</beginip>
+        <endip>218.207.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 江苏
+">
+      <ip id="0">
+        <beginip>221.130.0.0</beginip>
+        <endip>221.131.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 广西
+">
+      <ip id="0">
+        <beginip>218.204.0.0</beginip>
+        <endip>218.205.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 陕西
+">
+      <ip id="0">
+        <beginip>211.142.0.0</beginip>
+        <endip>211.142.127.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 河南
+">
+      <ip id="0">
+        <beginip>211.142.128.0</beginip>
+        <endip>211.142.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 山西
+">
+      <ip id="0">
+        <beginip>218.200.0.0</beginip>
+        <endip>218.203.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 湖南
+">
+      <ip id="0">
+        <beginip>211.143.0.0</beginip>
+        <endip>211.143.255.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 浙江
+">
+      <ip id="0">
+        <beginip>211.140.0.0</beginip>
+        <endip>211.141.255.255</endip>
+      </ip>
+    </province>
+</global>

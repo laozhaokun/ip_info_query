@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<global comment="中国铁通的各省市ip段">
+    <province name="
+ 北京
+">
+      <ip id="0">
+        <beginip>36.192.0.0</beginip>
+        <endip>36.223.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>123.64.0.0</beginip>
+        <endip>123.95.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>122.64.0.0</beginip>
+        <endip>122.95.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>110.192.0.0</beginip>
+        <endip>110.223.255.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>110.96.0.0</beginip>
+        <endip>110.127.255.255</endip>
+      </ip>
+      <ip id="5">
+        <beginip>101.144.0.0</beginip>
+        <endip>101.159.255.255</endip>
+      </ip>
+      <ip id="6">
+        <beginip>115.104.0.0</beginip>
+        <endip>115.107.255.255</endip>
+      </ip>
+      <ip id="7">
+        <beginip>114.208.0.0</beginip>
+        <endip>114.211.255.255</endip>
+      </ip>
+      <ip id="8">
+        <beginip>115.180.0.0</beginip>
+        <endip>115.183.255.255</endip>
+      </ip>
+      <ip id="9">
+        <beginip>118.204.0.0</beginip>
+        <endip>118.207.255.255</endip>
+      </ip>
+      <ip id="10">
+        <beginip>61.232.0.0</beginip>
+        <endip>61.235.255.255</endip>
+      </ip>
+      <ip id="11">
+        <beginip>103.3.128.0</beginip>
+        <endip>103.3.131.255</endip>
+      </ip>
+    </province>
+    <province name="
+ 上海
+">
+      <ip id="0">
+        <beginip>120.90.0.0</beginip>
+        <endip>120.91.255.255</endip>
+      </ip>
+    </province>
+</global>

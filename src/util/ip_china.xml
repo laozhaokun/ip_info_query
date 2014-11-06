@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<global name="中国各省市ip段 ">
+    <province name="上海 ">
+      <ip id="0">
+        <beginip>180.160.0.0</beginip>
+        <endip>180.175.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>222.64.0.0</beginip>
+        <endip>222.71.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>220.248.0.0</beginip>
+        <endip>220.251.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>124.76.0.0</beginip>
+        <endip>124.79.255.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>120.90.0.0</beginip>
+        <endip>120.91.255.255</endip>
+      </ip>
+      <ip id="5">
+        <beginip>175.186.0.0</beginip>
+        <endip>175.187.255.255</endip>
+      </ip>
+      <ip id="6">
+        <beginip>222.72.0.0</beginip>
+        <endip>222.73.255.255</endip>
+      </ip>
+      <ip id="7">
+        <beginip>111.186.0.0</beginip>
+        <endip>111.187.255.255</endip>
+      </ip>
+      <ip id="8">
+        <beginip>119.58.0.0</beginip>
+        <endip>119.58.255.255</endip>
+      </ip>
+      <ip id="9">
+        <beginip>61.165.0.0</beginip>
+        <endip>61.165.255.255</endip>
+      </ip>
+      <ip id="10">
+        <beginip>202.109.0.0</beginip>
+        <endip>202.109.255.255</endip>
+      </ip>
+      <ip id="11">
+        <beginip>27.115.0.0</beginip>
+        <endip>27.115.127.255</endip>
+      </ip>
+      <ip id="12">
+        <beginip>120.137.0.0</beginip>
+        <endip>120.137.127.255</endip>
+      </ip>
+      <ip id="13">
+        <beginip>210.13.64.0</beginip>
+        <endip>210.13.127.255</endip>
+      </ip>
+      <ip id="14">
+        <beginip>27.113.128.0</beginip>
+        <endip>27.113.191.255</endip>
+      </ip>
+      <ip id="15">
+        <beginip>120.136.128.0</beginip>
+        <endip>120.136.191.255</endip>
+      </ip>
+      <ip id="16">
+        <beginip>111.119.128.0</beginip>
+        <endip>111.119.159.255</endip>
+      </ip>
+      <ip id="17">
+        <beginip>210.5.144.0</beginip>
+        <endip>210.5.159.255</endip>
+      </ip>
+      <ip id="18">
+        <beginip>61.8.160.0</beginip>
+        <endip>61.8.175.255</endip>
+      </ip>
+      <ip id="19">
+        <beginip>202.96.224.0</beginip>
+        <endip>202.96.231.255</endip>
+      </ip>
+      <ip id="20">
+        <beginip>203.95.0.0</beginip>
+        <endip>203.95.7.255</endip>
+      </ip>
+      <ip id="21">
+        <beginip>202.131.16.0</beginip>
+        <endip>202.131.23.255</endip>
+      </ip>
+      <ip id="22">
+        <beginip>203.94.0.0</beginip>
+        <endip>203.94.3.255</endip>
+      </ip>
+      <ip id="23">
+        <beginip>202.38.134.0</beginip>
+        <endip>202.38.134.255</endip>
+      </ip>
+      <ip id="24">
+        <beginip>101.80.0.0</beginip>
+        <endip>101.95.255.255</endip>
+      </ip>
+      <ip id="25">
+        <beginip>101.224.0.0</beginip>
+        <endip>101.231.255.255</endip>
+      </ip>
+      <ip id="27">
+        <beginip>218.78.0.0</beginip>
+        <endip>218.79.255.255</endip>
+      </ip>
+      <ip id="28">
+        <beginip>124.74.0.0</beginip>
+        <endip>124.75.255.255</endip>
+      </ip>
+      <ip id="29">
+        <beginip>58.196.0.0</beginip>
+        <endip>58.197.255.255</endip>
+      </ip>
+      <ip id="30">
+        <beginip>58.246.0.0</beginip>
+        <endip>58.247.255.255</endip>
+      </ip>
+      <ip id="31">
+        <beginip>123.59.0.0</beginip>
+        <endip>123.59.255.255</endip>
+      </ip>
+      <ip id="32">
+        <beginip>211.80.0.0</beginip>
+        <endip>211.80.255.255</endip>
+      </ip>
+      <ip id="33">
+        <beginip>116.192.0.0</beginip>
+        <endip>116.192.255.255</endip>
+      </ip>
+      <ip id="34">
+        <beginip>118.126.0.0</beginip>
+        <endip>118.126.255.255</endip>
+      </ip>
+      <ip id="35">
+        <beginip>221.239.128.0</beginip>
+        <endip>221.239.255.255</endip>
+      </ip>
+      <ip id="36">
+        <beginip>117.74.128.0</beginip>
+        <endip>117.74.255.255</endip>
+      </ip>
+      <ip id="37">
+        <beginip>202.120.64.0</beginip>
+        <endip>202.120.127.255</endip>
+      </ip>
+      <ip id="38">
+        <beginip>124.243.192.0</beginip>
+        <endip>124.243.255.255</endip>
+      </ip>
+      <ip id="39">
+        <beginip>119.235.128.0</beginip>
+        <endip>119.235.191.255</endip>
+      </ip>
+      <ip id="40">
+        <beginip>210.14.64.0</beginip>
+        <endip>210.14.95.255</endip>
+      </ip>
+      <ip id="41">
+        <beginip>202.136.208.0</beginip>
+        <endip>202.136.223.255</endip>
+      </ip>
+      <ip id="42">
+        <beginip>202.96.192.0</beginip>
+        <endip>202.96.199.255</endip>
+      </ip>
+      <ip id="43">
+        <beginip>202.96.232.0</beginip>
+        <endip>202.96.239.255</endip>
+      </ip>
+      <ip id="44">
+        <beginip>203.94.8.0</beginip>
+        <endip>203.94.15.255</endip>
+      </ip>
+      <ip id="45">
+        <beginip>103.13.196.0</beginip>
+        <endip>103.13.199.255</endip>
+      </ip>
+      <ip id="46">
+        <beginip>202.22.248.0</beginip>
+        <endip>202.22.251.255</endip>
+      </ip>
+      <ip id="47">
+        <beginip>114.80.0.0</beginip>
+        <endip>114.95.255.255</endip>
+      </ip>
+      <ip id="48">
+        <beginip>180.152.0.0</beginip>
+        <endip>180.159.255.255</endip>
+      </ip>
+      <ip id="49">
+        <beginip>218.80.0.0</beginip>
+        <endip>218.83.255.255</endip>
+      </ip>
+      <ip id="50">
+        <beginip>112.64.0.0</beginip>
+        <endip>112.65.255.255</endip>
+      </ip>
+      <ip id="51">
+        <beginip>223.166.0.0</beginip>
+        <endip>223.167.255.255</endip>
+      </ip>
+      <ip id="52">
+        <beginip>59.78.0.0</beginip>
+        <endip>59.79.255.255</endip>
+      </ip>
+      <ip id="53">
+        <beginip>58.198.0.0</beginip>
+        <endip>58.199.255.255</endip>
+      </ip>
+      <ip id="54">
+        <beginip>175.185.0.0</beginip>
+        <endip>175.185.255.255</endip>
+      </ip>
+      <ip id="55">
+        <beginip>218.1.0.0</beginip>
+        <endip>218.1.255.255</endip>
+      </ip>
+      <ip id="56">
+        <beginip>61.152.0.0</beginip>
+        <endip>61.152.255.255</endip>
+      </ip>
+      <ip id="57">
+        <beginip>202.120.128.0</beginip>
+        <endip>202.120.255.255</endip>
+      </ip>
+      <ip id="58">
+        <beginip>122.144.128.0</beginip>
+        <endip>122.144.255.255</endip>
+      </ip>
+      <ip id="59">
+        <beginip>119.37.0.0</beginip>
+        <endip>119.37.127.255</endip>
+      </ip>
+      <ip id="60">
+        <beginip>203.95.128.0</beginip>
+        <endip>203.95.191.255</endip>
+      </ip>
+      <ip id="61">
+        <beginip>125.215.0.0</beginip>
+        <endip>125.215.63.255</endip>
+      </ip>
+      <ip id="62">
+        <beginip>119.37.128.0</beginip>
+        <endip>119.37.191.255</endip>
+      </ip>
+      <ip id="63">
+        <beginip>180.150.160.0</beginip>
+        <endip>180.150.191.255</endip>
+      </ip>
+      <ip id="64">
+        <beginip>202.96.240.0</beginip>
+        <endip>202.96.255.255</endip>
+      </ip>
+      <ip id="65">
+        <beginip>119.15.136.0</beginip>
+        <endip>119.15.143.255</endip>
+      </ip>
+      <ip id="66">
+        <beginip>203.176.168.0</beginip>
+        <endip>203.176.175.255</endip>
+      </ip>
+      <ip id="67">
+        <beginip>202.170.216.0</beginip>
+        <endip>202.170.223.255</endip>
+      </ip>
+      <ip id="68">
+        <beginip>103.22.76.0</beginip>
+        <endip>103.22.79.255</endip>
+      </ip>
+      <ip id="69">
+        <beginip>202.22.252.0</beginip>
+        <endip>202.22.255.255</endip>
+      </ip>
+      <ip id="70">
+        <beginip>116.224.0.0</beginip>
+        <endip>116.239.255.255</endip>
+      </ip>
+      <ip id="71">
+        <beginip>58.32.0.0</beginip>
+        <endip>58.39.255.255</endip>
+      </ip>
+      <ip id="72">
+        <beginip>49.52.0.0</beginip>
+        <endip>49.55.255.255</endip>
+      </ip>
+      <ip id="73">
+        <beginip>116.246.0.0</beginip>
+        <endip>116.247.255.255</endip>
+      </ip>
+      <ip id="74">
+        <beginip>219.228.0.0</beginip>
+        <endip>219.229.255.255</endip>
+      </ip>
+      <ip id="75">
+        <beginip>58.40.0.0</beginip>
+        <endip>58.41.255.255</endip>
+      </ip>
+      <ip id="76">
+        <beginip>61.170.0.0</beginip>
+        <endip>61.173.255.255</endip>
+      </ip>
+      <ip id="77">
+        <beginip>202.121.0.0</beginip>
+        <endip>202.121.255.255</endip>
+      </ip>
+      <ip id="78">
+        <beginip>61.169.0.0</beginip>
+        <endip>61.169.255.255</endip>
+      </ip>
+      <ip id="79">
+        <beginip>59.155.0.0</beginip>
+        <endip>59.155.255.255</endip>
+      </ip>
+      <ip id="80">
+        <beginip>123.49.128.0</beginip>
+        <endip>123.49.255.255</endip>
+      </ip>
+      <ip id="81">
+        <beginip>122.0.128.0</beginip>
+        <endip>122.0.255.255</endip>
+      </ip>
+      <ip id="82">
+        <beginip>202.120.0.0</beginip>
+        <endip>202.120.63.255</endip>
+      </ip>
+      <ip id="83">
+        <beginip>202.101.0.0</beginip>
+        <endip>202.101.63.255</endip>
+      </ip>
+      <ip id="84">
+        <beginip>111.119.64.0</beginip>
+        <endip>111.119.127.255</endip>
+      </ip>
+      <ip id="85">
+        <beginip>203.166.160.0</beginip>
+        <endip>203.166.191.255</endip>
+      </ip>
+      <ip id="86">
+        <beginip>116.193.32.0</beginip>
+        <endip>116.193.63.255</endip>
+      </ip>
+      <ip id="87">
+        <beginip>202.96.208.0</beginip>
+        <endip>202.96.223.255</endip>
+      </ip>
+      <ip id="88">
+        <beginip>202.96.200.0</beginip>
+        <endip>202.96.207.255</endip>
+      </ip>
+      <ip id="89">
+        <beginip>124.108.8.0</beginip>
+        <endip>124.108.15.255</endip>
+      </ip>
+      <ip id="90">
+        <beginip>202.122.112.0</beginip>
+        <endip>202.122.119.255</endip>
+      </ip>
+      <ip id="91">
+        <beginip>203.94.4.0</beginip>
+        <endip>203.94.7.255</endip>
+      </ip>
+      <ip id="92">
+        <beginip>202.38.132.0</beginip>
+        <endip>202.38.133.255</endip>
+      </ip>
+    </province>
+        <province name="江苏">
+      <ip id="0">
+        <beginip>49.64.0.0</beginip>
+        <endip>49.95.255.255</endip>
+      </ip>
+      <ip id="1">
+        <beginip>117.80.0.0</beginip>
+        <endip>117.95.255.255</endip>
+      </ip>
+      <ip id="2">
+        <beginip>222.184.0.0</beginip>
+        <endip>222.191.255.255</endip>
+      </ip>
+      <ip id="3">
+        <beginip>117.60.0.0</beginip>
+        <endip>117.63.255.255</endip>
+      </ip>
+      <ip id="4">
+        <beginip>222.92.0.0</beginip>
+        <endip>222.95.255.255</endip>
+      </ip>
+      <ip id="5">
+        <beginip>114.212.0.0</beginip>
+        <endip>114.213.255.255</endip>
+      </ip>
+      <ip id="6">
+        <beginip>153.34.0.0</beginip>
+        <endip>153.35.255.255</endip>
+      </ip>
+      <ip id="7">
+        <beginip>101.76.0.0</beginip>
+        <endip>101.77.255.255</endip>
+      </ip>
+      <ip id="8">
+        <beginip>61.177.0.0</beginip>
+        <endip>61.177.255.255</endip>
+      </ip>
+      <ip id="9">
+        <beginip>153.99.0.0</beginip>
+        <endip>153.99.255.255</endip>
+      </ip>
+      <ip id="10">
+        <beginip>202.119.128.0</beginip>
+        <endip>202.119.255.255</endip>
+      </ip>
+      <ip id="11">
+        <beginip>202.119.32.0</beginip>
+        <endip>202.119.63.255</endip>
+      </ip>
+      <ip id="12">
+        <beginip>202.119.64.0</beginip>
+        <endip>202.119.79.255</endip>
+      </ip>
+      <ip id="13">
+        <beginip>202.38.2.0</beginip>
+        <endip>202.38.3.255</endip>
+      </ip>
+      <ip id="14">
+        <beginip>180.96.0.0</beginip>
+        <endip>180.127.255.255</endip>
+      </ip>
+      <ip id="15">
+        <beginip>121.224.0.0</beginip>
+        <endip>121.239.255.255</endip>
+      </ip>
+      <ip id="16">
+        <beginip>114.216.0.0</beginip>
+        <endip>114.223.255.255</endip>
+      </ip>
+      <ip id="17">
+        <beginip>210.28.0.0</beginip>
+        <endip>210.31.255.255</endip>
+      </ip>
+      <ip id="18">
+        <beginip>218.4.0.0</beginip>
+        <endip>218.5.255.255</endip>
+      </ip>
+      <ip id="19">
+        <beginip>180.208.0.0</beginip>
+        <endip>180.209.255.255</endip>
+      </ip>
+      <ip id="20">
+        <beginip>219.230.0.0</beginip>
+        <endip>219.231.255.255</endip>
+      </ip>
+      <ip id="21">
+        <beginip>221.130.0.0</beginip>
+        <endip>221.131.255.255</endip>
+      </ip>
+      <ip id="22">
+        <beginip>61.160.0.0</beginip>
+        <endip>61.160.255.255</endip>
+      </ip>
+      <ip id="23">
+        <beginip>153.101.0.0</beginip>
+        <endip>153.101.255.255</endip>
+      </ip>
+      <ip id="24">
+        <beginip>202.102.64.0</beginip>
+        <endip>202.102.127.255</endip>
+      </ip>
+      <ip id="25">
+        <beginip>202.119.0.0</beginip>
+        <endip>202.119.31.255</endip>
+      </ip>
+      <ip id="26">
+        <beginip>103.12.68.0</beginip>
+        <endip>103.12.71.255</endip>
+      </ip>
+      <ip id="27">
+        <beginip>114.224.0.0</beginip>
+        <endip>114.239.255.255</endip>
+      </ip>
+      <ip id="28">
+        <beginip>112.80.0.0</beginip>
+        <endip>112.87.255.255</endip>
+      </ip>
+      <ip id="29">
+        <beginip>121.248.0.0</beginip>
+        <endip>121.251.255.255</endip>
+      </ip>
+      <ip id="30">
+        <beginip>222.192.0.0</beginip>
+        <endip>222.195.255.255</endip>
+      </ip>
+      <ip id="31">
+        <beginip>218.2.0.0</beginip>
+        <endip>218.3.255.255</endip>
+      </ip>
+      <ip id="32">
+        <beginip>211.70.0.0</beginip>
+        <endip>211.71.255.255</endip>
+      </ip>
+      <ip id="33">
+        <beginip>58.240.0.0</beginip>
+        <endip>58.241.255.255</endip>
+      </ip>
+      <ip id="34">
+        <beginip>223.2.0.0</beginip>
+        <endip>223.3.255.255</endip>
+      </ip>
+      <ip id="35">
+        <beginip>1.51.0.0</beginip>
+        <endip>1.51.255.255</endip>
+      </ip>
+      <ip id="36">
+        <beginip>61.132.0.0</beginip>
+        <endip>61.132.255.255</endip>
+      </ip>
+      <ip id="37">
+        <beginip>202.102.0.0</beginip>
+        <endip>202.102.31.255</endip>
+      </ip>
+      <ip id="38">
+        <beginip>202.102.32.0</beginip>
+        <endip>202.102.63.255</endip>
+      </ip>
+      <ip id="39">
+        <beginip>103.22.20.0</beginip>
+        <endip>103.22.23.255</endip>
+      </ip>
+      <ip id="40">
+        <beginip>58.208.0.0</beginip>
+        <endip>58.223.255.255</endip>
+      </ip>
+      <ip id="41">
+        <beginip>221.224.0.0</beginip>
+        <endip>221.231.255.255</endip>
+      </ip>
+      <ip id="42">
+        <beginip>122.192.0.0</beginip>
+        <endip>122.195.255.255</endip>
+      </ip>
+      <ip id="43">
+        <beginip>42.244.0.0</beginip>
+        <endip>42.247.255.255</endip>
+      </ip>
+      <ip id="44">
+        <beginip>58.192.0.0</beginip>
+        <endip>58.193.255.255</endip>
+      </ip>
+      <ip id="45">
+        <beginip>153.36.0.0</beginip>
+        <endip>153.37.255.255</endip>
+      </ip>
+      <ip id="46">
+        <beginip>122.96.0.0</beginip>
+        <endip>122.97.255.255</endip>
+      </ip>
+      <ip id="47">
+        <beginip>221.6.0.0</beginip>
+        <endip>221.6.255.255</endip>
+      </ip>
+      <ip id="48">
+        <beginip>153.3.0.0</beginip>
+        <endip>153.3.255.255</endip>
+      </ip>
+      <ip id="49">
+        <beginip>202.111.0.0</beginip>
+        <endip>202.111.127.255</endip>
+      </ip>
+      <ip id="50">
+        <beginip>202.119.96.0</beginip>
+        <endip>202.119.127.255</endip>
+      </ip>
+      <ip id="51">
+        <beginip>202.119.80.0</beginip>
+        <endip>202.119.95.255</endip>
+      </ip>
+      <ip id="52">
+        <beginip>202.127.12.0</beginip>
+        <endip>202.127.15.255</endip>
+      </ip>
+    </province>
+</global>
